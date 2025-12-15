@@ -23,7 +23,7 @@ if not API_KEY:
 genai.configure(api_key=API_KEY)
 
 # You can change model name if needed
-MODEL_NAME = "gemini-1.5-flash"
+MODEL_NAME = "gemini-flash-lite-latest"
 model = genai.GenerativeModel(MODEL_NAME)
 
 # -----------------------------
