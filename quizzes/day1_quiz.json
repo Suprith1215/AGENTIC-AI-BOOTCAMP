@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "What is the core difference between a standard Chatbot and an AI Agent?",
+    "options": [
+      "Agents use emojis, chatbots do not.",
+      "Agents can reason, plan, and use tools to achieve a goal.",
+      "Chatbots are faster than Agents.",
+      "There is no difference."
+    ],
+    "answer": "Agents can reason, plan, and use tools to achieve a goal."
+  },
+  {
+    "id": 2,
+    "question": "Which prompting technique encourages the model to 'think step-by-step'?",
+    "options": [
+      "Zero-Shot Prompting",
+      "Chain-of-Thought (CoT)",
+      "Few-Shot Prompting",
+      "ReAct Prompting"
+    ],
+    "answer": "Chain-of-Thought (CoT)"
+  },
+  {
+    "id": 3,
+    "question": "In the 'ReAct' framework, what do the letters stand for?",
+    "options": [
+      "Read and Act",
+      "Reason and Act",
+      "Reason and Acknowledge",
+      "React and Adapt"
+    ],
+    "answer": "Reason and Act"
+  },
+  {
+    "id": 4,
+    "question": "What is the role of a 'System Prompt'?",
+    "options": [
+      "To give the user instructions.",
+      "To define the AI's persona, rules, and behavior.",
+      "To store the API key.",
+      "To save the file."
+    ],
+    "answer": "To define the AI's persona, rules, and behavior."
+  },
+  {
+    "id": 5,
+    "question": "Which of these is NOT a component of an Agent's 'Brain'?",
+    "options": [
+      "Memory",
+      "Tools",
+      "Planning",
+      "Keyboard"
+    ],
+    "answer": "Keyboard"
+  }
+]
